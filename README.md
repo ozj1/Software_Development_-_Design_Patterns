@@ -1,1 +1,1 @@
-# Software_Development_-_Design_Patterns
+# Software_Development_and_Design_Patterns
